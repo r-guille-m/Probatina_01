@@ -1,1 +1,3 @@
 el mar y sus arenas
+esto es una tonteria 
+solo estoy aprendiendo git y github
